@@ -1,5 +1,5 @@
 import numpy as np
-from TwoJointArm import TwoJointArm
+from DoubleJointedArm import DoubleJointedArm
 import Trajectory
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
@@ -7,7 +7,7 @@ import time
 
 np.set_printoptions(linewidth=400)
 
-arm = TwoJointArm()
+arm = DoubleJointedArm()
 
 fps = 20
 dt = 1/fps
