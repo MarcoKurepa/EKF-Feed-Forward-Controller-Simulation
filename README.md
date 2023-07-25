@@ -6,6 +6,6 @@ Although that project may have found its end, there's more to come! From my new 
 
 You can check out some links relating to the above below:
 
- - [Robotics Team Match Video] (youtu.be/2NjYIj2gTWg)
- - [FPV Drone Video] (youtube.com/channel/UC9B_eFZj9DMjkwKXUUIay3w)
- - [Fani's Lab] (github.com/fani-lab)
+ - [Robotics Team Match Video](youtu.be/2NjYIj2gTWg) (High Score!!!)
+ - [FPV Drone Video](youtube.com/channel/UC9B_eFZj9DMjkwKXUUIay3w)
+ - [Fani's Lab](github.com/fani-lab)
